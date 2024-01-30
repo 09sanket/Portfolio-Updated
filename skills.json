@@ -22,11 +22,11 @@
     },
     {
         "name": "Node.js",
-        "icon":"https://wallpapercave.com/wp/wp4924004.jpg"
+        "icon":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS23AemCgTJPMjxT29cY-FS0RhdCmBA8ju2UA&usqp=CAU"
     },
     {
         "name": "Express.js",
-        "icon": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fajeetchaulagain.com%2Fblog%2Fexpress-js-getting-started%2F&psig=AOvVaw0JJ1mhUCoqOesDIhj_Ks8q&ust=1706699550050000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDKzbX9hIQDFQAAAAAdAAAAABAZ"
+        "icon": "https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png"
 
     },
     {
@@ -38,6 +38,13 @@
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
 
+    },
+    {
+        "name": "Frontend",
+        "icon": "https://codedamn.com/assets/images/learnpaths/og/frontend.png"
+
     }
+    
+    
      
 ]
